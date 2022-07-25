@@ -5,7 +5,7 @@ let fullName = firstName + " " + lastName
 let introduction = "Hello, my name is" + " " + fullName
 let myEyesColor = "brown";
 let myHairColor = "black";
-let myNumberOfSiblings = 4
+let myNumberOfSiblings = 3
 let myFavouriteFood = "Fried rice and salad";
 let myFavouriteColor = "lime green";
 

@@ -1,49 +1,58 @@
 #introduction {
-    color: aqua;
-    background-color: purple;
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-bottom: 1em;
-    padding: 0.5em;
-  }
-  
-  #my-favourite-color {
-    color: blue;
-    background-color: lime;
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-bottom: 1em;
-    padding: 0.5em;
-  }
-   
-  #my-number-of-siblings{
-    color: blueviolet;
-    background-color: brown;
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-bottom: 1em;
-    padding: 0.5em;
-  }
-
-  #my-favourite-food{
-    color: black;
-    background-color: bisque;
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-bottom: 1em;
-    padding: 0.5em;
+  color: aqua;
+  background-color: purple;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 0.5em;
 }
 
-#my-favourite-color{
-    color: cyan;
-    background-color: darkcyan;
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-bottom: 1em;
-    padding: 0.5em;
+#my-favourite-color {
+  color: blue;
+  background-color: lime;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 0.5em;
 }
 
-section{
-    background-color: yellowgreen;
-    padding: 10px;
+#my-number-of-siblings {
+  color: white;
+  background-color: brown;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 0.5em;
+}
+
+#my-favourite-food {
+  color: black;
+  background-color: bisque;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 0.5em;
+}
+
+#my-favourite-color {
+  color: cyan;
+  background-color: darkcyan;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 0.5em;
+}
+
+section {
+  background-color: yellowgreen;
+  padding: 10px;
+}
+
+#my-hair-color {
+  color: white;
+  background-color: purple;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 0.5em;
 }

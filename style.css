@@ -1,6 +1,6 @@
 #introduction {
-  color: red;
-  background-color: yellow;
+  color: white;
+  background-color: #1e3d59;
   font-size: 1.2em;
   font-weight: bold;
   margin-bottom: 1em;
@@ -8,8 +8,8 @@
 }
 
 #my-favourite-color {
-  color: blue;
-  background-color: lime;
+  color: navy;
+  background-color: #f5f0e1;
   font-size: 1.2em;
   font-weight: bold;
   margin-bottom: 1em;
@@ -17,8 +17,8 @@
 }
 
 #my-number-of-siblings {
-  color:orange;
-  background-color:purple;
+  color: whitesmoke;
+  background-color: #ff6e40;
   font-size: 1.2em;
   font-weight: bold;
   margin-bottom: 1em;
@@ -27,7 +27,7 @@
 
 #my-favourite-food {
   color: black;
-  background-color:red;
+  background-color: #ffc13b;
   font-size: 1.2em;
   font-weight: bold;
   margin-bottom: 1em;
@@ -44,7 +44,7 @@
 }
 
 section {
-  background-color: yellowgreen;
+  background-color:bisque;
   padding: 10px;
 }
 

@@ -1,0 +1,17 @@
+#introduction {
+    color: aqua;
+    background-color: purple;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+  }
+  
+  #my-favourite-color {
+    color: blue;
+    background-color: lime;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+  }

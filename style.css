@@ -1,6 +1,6 @@
 #introduction {
-  color: aqua;
-  background-color: purple;
+  color: red;
+  background-color: yellow;
   font-size: 1.2em;
   font-weight: bold;
   margin-bottom: 1em;
@@ -17,8 +17,8 @@
 }
 
 #my-number-of-siblings {
-  color: white;
-  background-color: brown;
+  color:orange;
+  background-color:purple;
   font-size: 1.2em;
   font-weight: bold;
   margin-bottom: 1em;
@@ -27,7 +27,7 @@
 
 #my-favourite-food {
   color: black;
-  background-color: bisque;
+  background-color:red;
   font-size: 1.2em;
   font-weight: bold;
   margin-bottom: 1em;
